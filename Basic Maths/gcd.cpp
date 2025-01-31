@@ -32,5 +32,6 @@ int main()
 
     int a = 15;
     int b = 20;
+    cout << "GCD of given numbers is: " << findGCD(a, b);
     return 0;
 }
